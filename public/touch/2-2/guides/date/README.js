@@ -1,0 +1,1 @@
+Ext.data.JsonP.date({"guide":"<h1>core/lang/Date.js</h1>\n","title":"Date.js"});

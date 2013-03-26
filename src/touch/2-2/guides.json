@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Agenda",
+        "items": [
+            {
+                "title": "第1回",
+                "name": "meeting1",
+                "description": "Sencha Touch 2 ソースコード読書会 第1回@東京"
+            }
+        ]
+    },
+    {
+        "title": "Code Reading",
+        "items": [
+            {
+                "title": "Ext.js",
+                "name": "ext",
+                "description": "core/Ext.js"
+            },
+            {
+                "title": "Version.js",
+                "name": "version",
+                "description": "core/version/Version.js"
+            },
+            {
+                "title": "String.js",
+                "name": "string",
+                "description": "core/lang/String.js"
+            },
+
+            {
+                "title": "Array.js",
+                "name": "array",
+                "description": "core/lang/Array.js"
+            },
+            {
+                "title": "Date.js",
+                "name": "date",
+                "description": "core/lang/Date.js"
+            }
+        ]
+    }
+]

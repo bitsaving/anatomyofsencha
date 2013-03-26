@@ -1,0 +1,12 @@
+{
+    "--title": "Sencha ソースコード読書会",
+    "--footer": "© COPYRIGHT 2013. ANATOMY OF SENCHA.COM",
+    "--body-html": [
+        "<script type='text/javascript'>",
+        "Docs.otherProducts = [",
+            "{text: 'Touch 2.2.0', href: '../../touch/2-2/index.html'},",
+            "{text: 'Ext JS 4.2.0', href: '../../ext-js/4-2/index.html'},",
+        "];",
+        "</script>"
+    ]
+}

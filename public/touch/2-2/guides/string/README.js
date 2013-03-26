@@ -1,0 +1,1 @@
+Ext.data.JsonP.string({"guide":"<h1>core/lang/String.js</h1>\n","title":"String.js"});
