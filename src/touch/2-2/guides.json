@@ -1,10 +1,10 @@
 [
     {
-        "title": "Agenda",
+        "title": "Meetup",
         "items": [
             {
                 "title": "第1回",
-                "name": "meeting1",
+                "name": "meetup1",
                 "description": "Sencha Touch 2 ソースコード読書会 第1回@東京"
             }
         ]
@@ -27,11 +27,36 @@
                 "name": "string",
                 "description": "core/lang/String.js"
             },
-
             {
                 "title": "Array.js",
                 "name": "array",
                 "description": "core/lang/Array.js"
+            },
+
+            {
+                "title": "Number.js",
+                "name": "number",
+                "description": "core/lang/Number.js"
+            },
+            {
+                "title": "Object.js",
+                "name": "object",
+                "description": "core/lang/Object.js"
+            },
+            {
+                "title": "Function.js",
+                "name": "function",
+                "description": "core/lang/Function.js"
+            },
+            {
+                "title": "JSON.js",
+                "name": "json",
+                "description": "core/lang/JSON.js"
+            },
+            {
+                "title": "Error.js",
+                "name": "error",
+                "description": "core/lang/Error.js"
             },
             {
                 "title": "Date.js",

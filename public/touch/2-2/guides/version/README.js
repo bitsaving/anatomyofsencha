@@ -1,1 +1,0 @@
-Ext.data.JsonP.version({"guide":"<h1>core/version/Version.js</h1>\n","title":"Version.js"});

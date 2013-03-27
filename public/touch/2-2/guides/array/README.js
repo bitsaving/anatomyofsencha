@@ -1,1 +1,0 @@
-Ext.data.JsonP.array({"guide":"<h1>core/lang/Array.js</h1>\n","title":"Array.js"});
