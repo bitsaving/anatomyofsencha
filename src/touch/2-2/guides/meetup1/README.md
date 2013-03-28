@@ -2,7 +2,7 @@
 
 ## 自己紹介
 
-## 「Senchaを使うエンジニアが知っておくたった一つのこと」 @dsuket
+## Sencha を使うエンジニアが知っておくたった一つのこと @dsuket
 
 ## Sencha Touch のコードを始めから読んでみる @kawanoshinobu
 
@@ -12,16 +12,14 @@
 
 Sencha Touch 2.2（β）
 
-Fastbook で披露したアニメーションキュー機能が含まれている！
+Fastbook で披露したアニメーションキューが含まれている！
 
 ダウンロードはこちらから => [http://www.sencha.com/forum/announcement.php?f=91&a=36](http://www.sencha.com/forum/announcement.php?f=91&a=36)
 
 **Sencha Touch とは：**
 
 - モバイル Web アプリを作るための JavaScript フレームワーク
-- Produced by Sencha.Inc
-
-[http://www.sencha.com/](http://www.sencha.com/)
+- Produced by [Sencha.Inc](http://www.sencha.com/)
 
 **どんなものが作れるの？：**
 
@@ -70,11 +68,9 @@ sencha-touch-all-debug.js # Chart 関連のコード込み
 
 クラスシステム、イベントモデル、コンポーネントモデル、データパッケージ、MVC、、。
 
+フレームワークの全体像の把握には、ぜひ [Sencha Touch パーフェクトガイド](http://www.amazon.co.jp/dp/4048869566/) を！
+
 今日は、**これらの仕組みを構築する基盤となるコード**群を読みます。
-
-- フレームワーク全体像の把握には、ぜひ「Sencha Touch パーフェクトガイド」を！
-
-[http://www.amazon.co.jp/dp/4048869566/](http://www.amazon.co.jp/dp/4048869566/)
 
 **core**
 
@@ -95,7 +91,7 @@ sencha-touch-all-debug.js # Chart 関連のコード込み
 
 **アイデア**
 
-- ナビゲーターの人がテーマに沿ったコードを解説する
+- ナビゲーターがテーマに沿ったコードを解説する
 - おれの気になるコードを解説するぞ
 - LT
 
