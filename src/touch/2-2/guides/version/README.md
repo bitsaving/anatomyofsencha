@@ -1,9 +1,8 @@
 # core/version/Version.js
 
-### Ext.Version オブジェクトを生成している
+A utility class that wrap around a string version number and provide convenient method to perform comparison. 
 
-- Object を継承している
-- Sencha Touch ではなく Ext Core のバージョンなので 4.1.0
+### Ext.Version オブジェクトを生成している
 
 ### バージョン情報を取得するための便利関数を定義している
 

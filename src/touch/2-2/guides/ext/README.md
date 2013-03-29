@@ -1,31 +1,51 @@
 # core/Ext.js
 
-### Ext の名前空間を作っている。
+### Ext 名前空間の生成
 
-### Ext.apply メソッドを定義している。コンフィグオプションを反映させる時に利用する重要メソッド。
+### Ext.apply
 
-Copies all the properties of config to the specified object. Note that if recursive merging and cloning without referencing the original objects / arrays is needed, use Ext.Object.merge instead.
+コンフィグオプションを反映させる時に利用する重要メソッド
 
-### Ext.emptyFn メソッドを定義している。
+### Ext.emptyFn
 
-### Ext.applyIf メソッドを定義している。
+### Ext.applyIf
 
-### Ext.iterate メソッドを定義している。
+### Ext.iterate
 
-### Ext.extend メソッドを定義している。これは deprecated なので注意。
+### Ext.extend
 
-### Ext.override メソッドを定義している。これは deprecated なので注意。
+deprecated
 
-### Ext.valueFrom メソッドを定義している。
+### Ext.override
 
-### Ext.typeOf メソッドを定義している。
+deprecated
 
-### Ext.isEmpty メソッドを定義している。
+### Ext.valueFrom
 
-### その他、Ext.isXXXX という判定用メソッドを数多く定義している。
+### Ext.typeOf
 
-### Ext.clone メソッドを定義している。
+### Ext.isEmpty
 
-### 後方互換性のため、Ext.type という Ext.typeOf のエイリアスを定義している。
+### 判定用メソッド
 
+- isArray
+- isDate
+- isMSDate
+- isObject
+- isPrimitive
+- isFunction
+- isNumber
+- isNumeric
+- isString
+- isBoolean
+- isElement
+- isTextNode
+- isDefined
+- isIterable
+
+### Ext.clone
+
+### Ext.typeOf のエイリアス Ext.type を定義
+
+後方互換性のため
 
