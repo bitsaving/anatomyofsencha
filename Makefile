@@ -2,8 +2,6 @@ TOUCH_SRC = src/touch/2-2/
 TOUCH_PUBLIC = public/touch/2-2/
 EXTJS_SRC = src/ext-js/4-2/
 EXTJS_PUBLIC = public/ext-js/4-2/
-USER_ID =
-PASSWORD =
 
 touch:
 		@@mkdir -p public/touch; mkdir -p public/touch/2-2;
@@ -19,6 +17,6 @@ all: touch ext-js
 
 deploy:
 		@@cd public; zip app.zip -r *; mv app.zip ../; cd -;
-		@@sencha io create-version AnatomyOfSencha app.zip 0.3 'Updated' ${USER_ID} ${PASSWORD}
-		@@sencha io deploy AnatomyOfSencha 0.3 ${USER_ID} ${PASSWORD}
+		@@sencha io create-version AnatomyOfSencha app.zip 0.3 'Updated' ${IO_ID} ${IO_PASSWORD}
+		@@sencha io deploy AnatomyOfSencha 0.3 ${IO_ID} ${IO_PASSWORD}
 		@@rm app.zip

@@ -2,7 +2,24 @@
 
 ## 自己紹介
 
+- 参加人数11名
+
 ## Sencha を使うエンジニアが知っておくたった一つのこと @dsuket
+
+- Sencha Touch はハマることが多い
+
+- 理解を深めるには、ハマりから抜け出すには => **「ソース嫁！」**
+
+    - 内部の動きに詳しくなる
+    - コンポーネント作成のコツが分かる
+    - JavaScript の勉強になる
+
+- Sencha Docs の解説
+    - ドキュメントのサンプルコードは編集して、リアルタイムに実行できる
+
+- Sencha Try の解説
+
+**Sencha のコードは分かりやすい！**
 
 ## Sencha Touch のコードを始めから読んでみる @kawanoshinobu
 
@@ -95,4 +112,7 @@ sencha-touch-all-debug.js # Chart 関連のコード込み
 - おれの気になるコードを解説するぞ
 - LT
 
+## USTREAM
+
+[Sencha Touch 2 ソースコード読書会（第1回）](http://goo.gl/Xc0pd)
 
