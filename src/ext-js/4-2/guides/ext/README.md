@@ -12,8 +12,6 @@
 
 ### Ext.iterate
 
-### Ext.iterate
-
 ### Ext.extend
 
 deprecated
