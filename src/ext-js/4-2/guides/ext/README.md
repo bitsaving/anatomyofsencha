@@ -51,6 +51,8 @@ deprecated
 
 ### Ext.app
 
+Application や Controller のような中核をなすクラスが配置される名前空間
+
 ### Ext.globalEval
 
 touch だと private 扱い
