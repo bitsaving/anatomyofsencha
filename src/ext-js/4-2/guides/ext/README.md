@@ -1,4 +1,4 @@
-# core/Ext.js
+# core/src/Ext.js
 
 ### Ext 名前空間の作成
 
