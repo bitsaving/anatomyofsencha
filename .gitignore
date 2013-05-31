@@ -1,4 +1,5 @@
 .DS_Store
 *.md~
+*.json~
 public/touch/
 public/ext-js/

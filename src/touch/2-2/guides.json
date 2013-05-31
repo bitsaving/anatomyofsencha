@@ -5,7 +5,12 @@
             {
                 "title": "第1回",
                 "name": "meetup1",
-                "description": "Sencha Touch 2 ソースコード読書会 第1回@東京"
+                "description": "Sencha Touch 2 ソースコード読書会 第1回"
+            },
+            {
+                "title": "第2回",
+                "name": "meetup2",
+                "description": "Sencha Touch 2 ソースコード読書会 第2回"
             }
         ]
     },
