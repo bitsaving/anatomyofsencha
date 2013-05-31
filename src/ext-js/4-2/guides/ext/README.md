@@ -1,4 +1,4 @@
-# core/Ext.js
+# core/src/Ext.js
 
 ### Ext 名前空間の作成
 
@@ -9,8 +9,6 @@
 ### Ext.emptyFn
 
 ### Ext.applyIf
-
-### Ext.iterate
 
 ### Ext.iterate
 
@@ -52,6 +50,8 @@ deprecated
 後方互換性のため
 
 ### Ext.app
+
+Application や Controller のような中核をなすクラスが配置される名前空間
 
 ### Ext.globalEval
 
