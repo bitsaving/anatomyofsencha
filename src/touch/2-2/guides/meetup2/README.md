@@ -50,8 +50,8 @@ Sencha Touch Tutorial: HTML5 is Ready App Contest 1位アプリ「JDI」を作�
 
 **core**
 
-- core/lang/Array.js
-- core/lang/Number.js
+- [core/lang/Array.js](http://www.anatomyofsencha.com/touch/2-2/index.html#!/guide/array)
+- [core/lang/Number.js](http://www.anatomyofsencha.com/touch/2-2/index.html#!/guide/number)
 - core/lang/Object.js
 - core/lang/Function.js
 
